@@ -3,11 +3,16 @@
 
 #### Hi there! I'm Mariana Tanvi, a highly skilled front-end web developer with 2 years of experience in creating visually stunning and user-friendly websites. With a strong foundation in HTML, CSS, Bootstrap, JavaScript, and React.
 
+
 #### Skills: REACT / JS / HTML5 / CSS3/ PHP/ BOOTSTRAP
+
+
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marianatanvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marianatanvi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marianatanvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tanvitalukder/)  
 
