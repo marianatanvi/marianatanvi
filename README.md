@@ -8,9 +8,19 @@ Skills: REACT / JS / HTML5 / CSS3/ PHP/ BOOTSTRAP
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marianatanvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marianatanvi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marianatanvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tanvitalukder/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianatanvi)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianatanvi&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marianatanvi)  
+
+![GitHub metrics](https://metrics.lecoq.io/marianatanvi)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=marianatanvi)  
+
+![Profile views](https://gpvc.arturio.dev/marianatanvi)  
